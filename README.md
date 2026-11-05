@@ -32,5 +32,8 @@ I write my study notes in my own words here:
 
 I practice security topics only in my own lab or where I have permission.
 
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/)
 ---
 *I am a beginner and still learning. I update my notes regularly.*

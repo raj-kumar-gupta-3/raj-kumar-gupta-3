@@ -1,39 +1,80 @@
-# Hi, I am Raj Kumar Gupta 👋
+# Hi, I'm Raj Kumar Gupta 👋
 
-BCA student at Tribhuvan University, Nepal.
+### BCA Student | Aspiring IT Support Specialist | Linux & Networking Learner
 
-I am learning IT step by step. My goal is to work as an **IT Specialist (Network and System Admin)** and grow in **cybersecurity and ethical hacking**.
+I'm a BCA student at Tribhuvan University, Nepal, passionate about understanding how computers, operating systems, networks, and IT systems work.
 
-## What I am learning
+I'm currently building my technical foundation through hands-on practice, personal projects, and self-study.
 
-| Area | What I practice | Level |
-|------|-----------------|-------|
-| Linux | Commands, files, users | Beginner |
-| Networking | Basics, IP, DNS, ports | Beginner |
-| SQL and MySQL | Lab practice and queries | Beginner |
-| Python | Basic programming | Beginner |
-| CompTIA A+ | Core 1 study notes | Preparing |
-| Cybersecurity | Ethical hacking basics | Beginner |
+My goal is to start my career in **IT Support / Help Desk** and gradually grow into **System Administration, Networking, and Cybersecurity**.
 
-## My notes
-
-I write my study notes in my own words here:
-[it-learning-notes](https://github.com/raj-kumar-gupta-3/it-learning-notes)
-
-## My goals
-
-- Pass CompTIA A+
-- Build a strong base in Linux and Networking
-- Learn Python for small automation and security tools
-- Work as a Network and System Admin
-- Grow in cybersecurity and ethical hacking
-
-## Ethical rule
-
-I practice security topics only in my own lab or where I have permission.
-
-## Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/)
 ---
-*I am a beginner and still learning. I update my notes regularly.*
+
+## 🎯 Current Learning Focus
+
+- 🐧 **Linux:** Commands, file systems, permissions, users, and system administration basics.
+- 🌐 **Networking:** IP addressing, DHCP, DNS, routing, and network troubleshooting.
+- 🖥️ **IT Support:** Hardware, operating systems, Windows troubleshooting, and technical support.
+- 🐍 **Python:** Learning scripting and automation for IT tasks.
+- 🔐 **Cybersecurity:** Exploring defensive security and ethical hacking fundamentals.
+
+## 🛠️ Technologies & Tools
+
+**Operating Systems**
+- Kali Linux
+- Windows
+
+**Tools**
+- VS Code
+- Git & GitHub
+- VirtualBox
+- MySQL
+- XAMPP
+- TryHackMe
+
+**Languages**
+- Python (Learning)
+- SQL
+- HTML & CSS
+- JavaScript (Learning)
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| PhishGuard | A beginner Python project for analyzing potentially suspicious URLs. |
+| FloraCart | A PHP and MySQL-based indoor plant shopping website. |
+| IT Learning Notes | Personal notes covering Linux, SQL, and CompTIA A+ topics. |
+
+## 📚 Learning & Practice
+
+I believe in learning by doing.
+
+My learning process:
+1. Understand the concept.
+2. Practice it in a lab environment.
+3. Build small projects.
+4. Document what I learn.
+5. Improve through regular practice.
+
+## 🎯 Career Goals
+
+- Build a strong foundation in IT Support and Help Desk.
+- Improve Linux and Windows administration skills.
+- Develop practical networking knowledge.
+- Learn system administration.
+- Gradually advance into Cybersecurity.
+
+## 📊 GitHub Activity
+
+I use GitHub to document my learning journey, maintain personal projects, and improve my practical skills.
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@raj-kumar-gupta-3](https://github.com/raj-kumar-gupta-3)
+
+I'm always interested in learning, building projects, and connecting with people in the IT community.
+
+**"Learn the fundamentals. Practice consistently. Build something useful. Keep improving."**

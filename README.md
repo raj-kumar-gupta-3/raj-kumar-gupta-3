@@ -73,7 +73,7 @@ I use GitHub to document my learning journey, maintain personal projects, and im
 
 ## 🤝 Connect With Me
 
-- GitHub: [@raj-kumar-gupta-3](https://github.com/raj-kumar-gupta-3)
+- Linkedin: [@raj-kumar-gupta-4a231](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/)
 
 I'm always interested in learning, building projects, and connecting with people in the IT community.
 
